@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Powered By AiEson",
+        "name": "ParticleSpriteMod",
+        "uuid": "c15e4038-899d-4f89-acb8-322a220feb67",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Powered By AiEson",
+            "type": "resources",
+            "uuid": "12c70148-06a2-4ebf-ab65-ba56110e289f",
+            "version": [0, 0, 1]
+        }
+    ]
+}
